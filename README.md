@@ -1,1 +1,1 @@
-Welcome! This is a github page for Section Slides.
+Discussion Section Slides for COGS17 Neurobiology of Cognition.
